@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6F84DC
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWebService", "FSharpWebService\FSharpWebService.fsproj", "{8E76247E-B3D5-4DE2-8A9F-7C18894DF5EA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpModelLibrary", "FSharpModelLibrary\FSharpModelLibrary.fsproj", "{3932B33B-5C8A-4A89-B322-662A99EDCBD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{28315728-5B7B-4450-9F37-4EE4A2F134C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28315728-5B7B-4450-9F37-4EE4A2F134C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28315728-5B7B-4450-9F37-4EE4A2F134C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E76247E-B3D5-4DE2-8A9F-7C18894DF5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E76247E-B3D5-4DE2-8A9F-7C18894DF5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E76247E-B3D5-4DE2-8A9F-7C18894DF5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E76247E-B3D5-4DE2-8A9F-7C18894DF5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3932B33B-5C8A-4A89-B322-662A99EDCBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3932B33B-5C8A-4A89-B322-662A99EDCBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3932B33B-5C8A-4A89-B322-662A99EDCBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3932B33B-5C8A-4A89-B322-662A99EDCBD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
